@@ -1,0 +1,8 @@
+torch
+torchaudio
+transformers
+streamlit
+librosa
+sounddevice
+numpy
+huggingface_hub
