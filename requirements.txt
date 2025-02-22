@@ -6,3 +6,4 @@ librosa
 sounddevice
 numpy
 huggingface_hub
+openai
